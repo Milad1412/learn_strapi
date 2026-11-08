@@ -1,0 +1,5 @@
+{
+	"dependencies": {
+		"@types/qs": "^6.15.1"
+	}
+}

@@ -1,5 +1,5 @@
 import { Suspense } from 'react'
-import ClientComponent from '../components/ClientComponent'
+import ClientComponent from '../../components/pages/ClientComponent'
 
 const ClientPage = () => {
   return (
